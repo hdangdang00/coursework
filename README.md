@@ -1,6 +1,7 @@
 # 🏫 Coursework
 
-This repository contains coursework from my studies at Sungkyunkwan University Applied AI Convergence Industrial Artificial Intelligence.<br/>
+This repository contains coursework from my studies at Sungkyunkwan University Applied AI Convergence Industrial Artificial Intelligence.
+
 The following courses highlight my academic training that handles programming and software development:
 
 | Course ID | Course Title                                                                           | Professor                         |
